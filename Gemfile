@@ -32,6 +32,8 @@ end
 group :development, :test do
   gem 'byebug'
   gem 'factory_girl_rails'
+  gem 'pry-rails'
+  gem 'pry-nav'
   gem 'faker'
   gem 'rspec-rails'
   gem 'spring'
