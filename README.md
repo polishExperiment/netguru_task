@@ -1,3 +1,6 @@
+Travis CI build status: 
+[![Build Status](https://travis-ci.org/polishExperiment/netguru_task.svg?branch=master)](https://travis-ci.org/polishExperiment/netguru_task)
+
 RoR Workshops
 ================
 
